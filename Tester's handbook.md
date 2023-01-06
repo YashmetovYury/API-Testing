@@ -1,120 +1,147 @@
-SQA QUESTIONS
+#SQA QUESTIONS
+##Basic
 
-1. What is black/white box testing? 
-2. What are Bug Report components? 
-3. What is a Test Case? 
-4. What is a test plan? 
-5. Describe the QA Process 
-6. How can you describe QA process in your last company? 
-7. How would you approach testing of the Gmail application? 
-8. If there are so many settings/options to choose, how to write test cases? 
-9. If you log a bug and the developer says she canít reproduce it, what should you do? 
-10. If you find a bug and the developer says it is as-designed, what would you do? 
-11. 11. If you try to print a document to a printer, but the output is not there.† What might be the cause? 
-12. 12. Beside test case & test plan, what documents might be required to produce within QA department? 
-13. 13. Describe Test matrix 
-14. 14. Describe risk analysis in software testing 
-15. 15. What is the difference between a consumer product compared to enterprise product? 
-16. 16. How do you test a toaster? 
-17. 17. How do you test a banking ATM machine? 
-18. 18. What is use case? 
-19. 19. What is Unit testing? 
-20. 20. What is API Testing? 
-21. 21. What is the performance testing? 
-22. 22. What is stress testing? 
-23. 23. What is the most important impact QA can have on a product development process? 
-24. 24. How do you determine when you have done enough testing? 
-25. 25. Describe the bug life cycle? 1. Что такое тестирование черного / белого ящика? 2. Что представляют собой компоненты отчета об ошибке? 3. Что такое контрольный пример? 4. Что такое план тестирования? 5. Опишите процесс обеспечения качества. 6. Как вы можете описать процесс обеспечения качества в вашей последней компании? 7. Как бы вы подошли к тестированию приложения Gmail? 8. Если нужно выбрать так много настроек / опций, как писать тестовые примеры? 9. Если вы регистрируете ошибку, а разработчик говорит, что не может ее воспроизвести, что делать? 10. Если вы обнаружите ошибку, и разработчик скажет, что она соответствует дизайну, что вы будете делать? 11. Если вы пытаетесь распечатать документ на принтере, но распечатки нет. † В чем может быть причина? 12. Какие документы могут потребоваться, помимо контрольного примера и плана тестирования, в отделе контроля качества? 13. Опишите тестовую матрицу. 14. Опишите анализ рисков при тестировании программного обеспечения. 15. В чем разница между потребительским продуктом и продуктом предприятия? 16. Как проверить тостер? 17. Как вы тестируете банковский банкомат? 18. Что такое вариант использования? 19. Что такое модульное тестирование? 20. Что такое тестирование API? 21. Что такое тестирование производительности? 22. Что такое стресс-тестирование? 23. Какое наиболее важное влияние QA может оказать на процесс разработки продукта? 24Как определить, достаточно ли вы выполнили тестирование? 25. Опишите жизненный цикл ошибки?
+1. What is black/white box testing? 1. Что такое тестирование черного / белого ящика? 
+2. What are Bug Report components? 2. Что представляют собой компоненты отчета об ошибке? 
+3. What is a Test Case? 3. Что такое Тест Кейс? 
+4. What is a test plan? 4. Что такое план тестирования?
+5. Describe the QA Process 5. Опишите процесс обеспечения качества. 
+6. How can you describe QA process in your last company? 6. Как вы можете описать процесс обеспечения качества в вашей последней компании?
+7. How would you approach testing of the Gmail application? 7. Как бы вы подошли к тестированию приложения Gmail?
+8. If there are so many settings/options to choose, how to write test cases? 8. Если нужно выбрать так много настроек / опций, как писать тестовые примеры?
+9. If you log a bug and the developer says she canít reproduce it, what should you do? 9. Если вы регистрируете ошибку, а разработчик говорит, что не может ее воспроизвести, что делать?
+10. If you find a bug and the developer says it is as-designed, what would you do? 10. Если вы обнаружите ошибку, и разработчик скажет, что она соответствует дизайну, что вы будете делать?
+11. If you try to print a document to a printer, but the output is not there.† What might be the cause? 11. Если вы пытаетесь распечатать документ на принтере, но распечатки нет. † В чем может быть причина?
+12. Beside test case & test plan, what documents might be required to produce within QA department? 12. Какие документы могут потребоваться, помимо контрольного примера и плана тестирования, в отделе контроля качества?
+13. Describe Test matrix 13. Опишите тестовую матрицу.
+14. Describe risk analysis in software testing 14. Опишите анализ рисков при тестировании программного обеспечения.
+15. What is the difference between a consumer product compared to enterprise product? 15. В чем разница между потребительским продуктом и продуктом предприятия?
+16. How do you test a toaster? 16. Как проверить тостер?
+17. How do you test a banking ATM machine? 17. Как вы тестируете банковский банкомат?
+18. What is use case? 18. Что такое вариант использования?
+19. What is Unit testing? 19. Что такое модульное тестирование? 
+20. What is API Testing? 20. Что такое тестирование API?
+21. What is the performance testing? 21. Что такое тестирование производительности?
+22. What is stress testing? 22. Что такое стресс-тестирование?
+23. What is the most important impact QA can have on a product development process? 23. Какое наиболее важное влияние QA может оказать на процесс разработки продукта?
+24. How do you determine when you have done enough testing? 24. Как определить, достаточно ли вы выполнили тестирование?
+25. Describe the bug life cycle? 25. Опишите жизненный цикл ошибки?
+26. What is the software development life cycle? 26. Каков жизненный цикл разработки программного обеспечения?
+27. How can a tester be sure that bug was fixed? 27. Как тестировщик может быть уверен, что ошибка исправлена?
+28. What is a Regression test? 28. Что такое регрессионный тест?
+29. Define User Acceptance test? 29. Определить приемочный тест пользователя?
+30. What do you prefer: white or black box testing? 30. Что вы предпочитаете: тестирование по белому или черному ящику?
+31. How will you write test cases for LOGIN & PASSWORD functionality, positive and negative testing? 31. Как вы будете писать тестовые примеры для функциональности ВХОДА И ПАРОЛЯ, положительного и отрицательного тестирования?
+32. How do you see yourself in 3-5 years as a QA engineer? 32. Каким вы видите себя через 3-5 лет в качестве инженера по обеспечению качества?
+33. What is the difference between a test case and a test plan? 33. В чем разница между тестовым набором и планом тестирования?
+34. Why do you choose the QA career? 34. Почему вы выбрали карьеру QA?
+35. Describe a bug 35. Опишите ошибку.
+36. What kind of issues do you encounter in browser compatibility testing? 36. С какими проблемами вы сталкиваетесь при тестировании совместимости браузеров?
+37. How do you prepare a browser for GUI testing? 37. Как подготовить браузер к тестированию графического интерфейса?
+38. When do you automate testing? 38. Когда автоматизировать тестирование?
+39. Define Boundary testing? 39. Определить граничное тестирование?
+40. What is error handling testing? 40. Что такое тестирование обработки ошибок?
+41. What are possible configurations that could affect the testing strategy of any web site? 41. Какие возможные конфигурации могут повлиять на стратегию тестирования любого веб-сайта?
+42. What are the differences between testing WEB application and testing client-server application? 42. В чем разница между тестированием WEB-приложения и тестированием клиент-серверного приложения?
+43. How should QA engineer communicate with a developer? 43. Как QA-инженер должен общаться с разработчиком?
+44. What are the basic rules of creating of an automation test project? 44. Каковы основные правила создания тестового проекта автоматизации?
+45. What is the test documentation? Tell about this all that you know? 45. Что такое тестовая документация? Расскажи об этом все, что знаешь?
+46. How many bugs do you report in one bug report? Why? 46. ​​Сколько ошибок вы сообщаете в одном отчете об ошибках? Почему?
+47. When does Testing begin? 47. Когда начинается тестирование?
+48. What is Re-testing? 48. Что такое повторное тестирование?
+49. What is QA Methodology? 49. Что такое методология обеспечения качества?   
+50. What are some of the differences between Agile and Waterfall? 50. В чем разница между Agile и Waterfall?
+51. If you found a bug what do you have to do next? 51. Если вы обнаружили ошибку, что делать дальше?
+52. How did you write test plans; test cases? 52. Как вы составляли планы тестирования; тестовые случаи?
+53. Explain Multi-tiered Architecture 53. Объяснение многоуровневой архитектуры.
+54. How do you perform GUI testing? 54. Как вы проводите тестирование графического интерфейса?
+55. Tell me about the testcase development process? 55. Расскажите о процессе разработки тесткейса?
+56. What is the basic difference between B2B and e-commerce sites? 56. В чем основное различие между сайтами B2B и электронной коммерцией? 
+57. Which browsers do you like and why? 57. Какие браузеры вам нравятся и почему?
 
-26. What is the software development life cycle?
-27. How can a tester be sure that bug was fixed?
-28. What is a Regression test?
-29. Define User Acceptance test?
-30. What do you prefer: white or black box testing?
-31. How will you write test cases for LOGIN & PASSWORD functionality, positive and negative testing?
-32. How do you see yourself in 3-5 years as a QA engineer?
-33. What is the difference between a test case and a test plan?
-34. Why do you choose the QA career?
-35. Describe a bug
-36. What kind of issues do you encounter in browser compatibility testing?
-37. How do you prepare a browser for GUI testing?
-38. When do you automate testing?
-39. Define Boundary testing?
-40. What is error handling testing?
-41. What are possible configurations that could affect the testing strategy of any web site?
-42. What are the differences between testing WEB application and testing client-server application?
-43. How should QA engineer communicate with a developer?
-44. What are the basic rules of creating of an automation test project?
-45. What is the test documentation? Tell about this all that you know?
-46. How many bugs do you report in one bug report? Why?
-47. When does Testing begin?
-48. What is Re-testing?
-49. What is QA Methodology?
-   
-   26. Каков жизненный цикл разработки программного обеспечения?
-   27. Как тестировщик может быть уверен, что ошибка исправлена?
-   28. Что такое регрессионный тест?
-   29. Определить приемочный тест пользователя?
-   30. Что вы предпочитаете: тестирование по белому или черному ящику?
-   31. Как вы будете писать тестовые примеры для функциональности ВХОДА И ПАРОЛЯ, положительного и отрицательного тестирования?
-   32. Каким вы видите себя через 3-5 лет в качестве инженера по обеспечению качества?
-   33. В чем разница между тестовым набором и планом тестирования?
-   34. Почему вы выбрали карьеру QA?
-   35. Опишите ошибку.
-   36. С какими проблемами вы сталкиваетесь при тестировании совместимости браузеров?
-   37. Как подготовить браузер к тестированию графического интерфейса?
-   38. Когда автоматизировать тестирование?
-   39. Определить граничное тестирование?
-   40. Что такое тестирование обработки ошибок?
-   41. Какие возможные конфигурации могут повлиять на стратегию тестирования любого веб-сайта?
-   42. В чем разница между тестированием WEB-приложения и тестированием клиент-серверного приложения?
-   43. Как QA-инженер должен общаться с разработчиком?
-   44. Каковы основные правила создания тестового проекта автоматизации?
-   45. Что такое тестовая документация? Расскажи об этом все, что знаешь?
-   46. ​​Сколько ошибок вы сообщаете в одном отчете об ошибках? Почему?
-   47. Когда начинается тестирование?
-   48. Что такое повторное тестирование?
-   49. Что такое методология обеспечения качества?
-50. What are some of the differences between Agile and Waterfall?
-51. If you found a bug what do you have to do next?
-52. How did you write test plans; test cases?
-53. Explain Multi-tiered Architecture
-54. How do you perform GUI testing?
-55. Tell me about the testcase development process?
-56. What is the basic difference between B2B and e-commerce sites?
-57. Which browsers do you like and why?
-TECHNICAL 1. What is web based application? 2. How to join tables in SQL? 3. Difference between Application Servers and Web server? 4. What is DHCP/DNS? 5. What is TCP/IP, HTTP protocols and how they work? 6. What is VPN? 7. What would be the “suspicions points” if the HTML+Javascript file should contain the phrase: “George’s resume has > skills than mine” 8. “IPconfig”, what is the similar command in UNIX? 9. What UNIX commands do you commonly use? 10. What typical controls can web pages contain? 11. What is HTTP protocol? How it works? Can you tell me any HTTP request method and describe it? Can you tell me any HTTP status code and describe it? 12. What are cookies? 13. What are browsers? Which one do you know? Can you show me how to see source code of a web page and where it keeps cookies? 14. How do you know what version of Java you are currently using? 50. В чем разница между Agile и Waterfall? 51. Если вы обнаружили ошибку, что делать дальше? 52. Как вы составляли планы тестирования; тестовые случаи? 53. Объяснение многоуровневой архитектуры. 54. Как вы проводите тестирование графического интерфейса? 55. Расскажите о процессе разработки тесткейса? 56. В чем основное различие между сайтами B2B и электронной коммерцией? 57. Какие браузеры вам нравятся и почему? ТЕХНИЧЕСКИЕ 1. Что такое веб-приложение? 2. Как соединить таблицы в SQL? 3. Разница между серверами приложений и веб-сервером? 4. Что такое DHCP / DNS? 5. Что такое протоколы TCP / IP, HTTP и как они работают? 6. Что такое VPN? 7. Каковы были бы «подозрения», если бы файл HTML + Javascript содержал фразу: «В резюме Джорджа> навыков, чем у меня» 8. «IPconfig», что представляет собой аналогичная команда в UNIX? 9. Какие команды UNIX вы обычно используете? 10. Какие типичные элементы управления могут содержать веб-страницы? 11. Что такое протокол HTTP? Как это работает? Можете ли вы назвать какой-либо метод HTTP-запроса и описать его? Можете ли вы назвать какой-либо код статуса HTTP и описать его? 12. Что такое куки? 13. Что такое браузеры? Кого из них вы знаете? Вы можете показать мне, как посмотреть исходный код веб-страницы и где хранятся файлы cookie? 14. Как узнать, какую версию Java вы используете в настоящее время?
+##Technic
 
+1. What is web based application? 1. Что такое веб-приложение?
+2. How to join tables in SQL? 2. Как соединить таблицы в SQL?
+3. Difference between Application Servers and Web server? 3. Разница между серверами приложений и веб-сервером?
+4. What is DHCP/DNS? 4. Что такое DHCP / DNS?
+5. What is TCP/IP, HTTP protocols and how they work? 5. Что такое протоколы TCP / IP, HTTP и как они работают?
+6. What is VPN? 6. Что такое VPN?
+7. What would be the “suspicions points” if the HTML+Javascript file should contain the phrase: “George’s resume has > skills than mine” 7. Каковы были бы «подозрения», если бы файл HTML + Javascript содержал фразу: «В резюме Джорджа> навыков, чем у меня»
+8. “IPconfig”, what is the similar command in UNIX? 8. «IPconfig», что представляет собой аналогичная команда в UNIX?
+9. What UNIX commands do you commonly use? 9. Какие команды UNIX вы обычно используете?
+10. What typical controls can web pages contain? 10. Какие типичные элементы управления могут содержать веб-страницы?
+11. What is HTTP protocol? How it works? Can you tell me any HTTP request method and describe it? Can you tell me any HTTP status code and describe it? 11. Что такое протокол HTTP? Как это работает? Можете ли вы назвать какой-либо метод HTTP-запроса и описать его? Можете ли вы назвать какой-либо код статуса HTTP и описать его?
+12. What are cookies? 12. Что такое куки?
+13. What are browsers? Which one do you know? Can you show me how to see source code of a web page and where it keeps cookies? 13. Что такое браузеры? Кого из них вы знаете? Вы можете показать мне, как посмотреть исходный код веб-страницы и где хранятся файлы cookie?
+14. How do you know what version of Java you are currently using? 14. Как узнать, какую версию Java вы используете в настоящее время?
 15. Give me a select statement that gives me the contact information for customers in these tables:
 • name {id,first,last}
 • address {id,street, city}
 • phone {id, order, phone}
 • select *from name, address, phone where name.id = address.id and name.id = phone.id
-PRIOR EXPERIENCE/OTHER 1. Tell me about your current job/project? 2. Tell me about your prior experience and education? 3. Can you travel to Texas? How often? 4. Your resume says about your abilities as problem solver – explain with an example. 5. What do you expect to gain from your internship tenure at our company? 6. What can you bring to the company? 7. When in the past you have been part of a team that is working exceptionally well, what do you think the reasons were for its success? 8. How have you in the past contributed to the success of your employer? 9. If you are working a problem (i.e. test scenario/bug) and you are unable to get the information you need who is the most likely person who can help you? 10. Tell us about a time in your previous employment when you had a disagreement with a team member. What was the situation and how did you solve it? 11. Can you provide one or two examples of how you lead, guide and motivate team members? 16. Дайте мне выборочное утверждение, которое дает мне контактную информацию для клиентов в этих таблицах: • имя {id, first, last} • адрес {id, street, city} • телефон {id, order, phone} • выберите * из имени, адреса, телефона, где name.id = address.id и name.id = phone.id ПРЕДЫДУЩИЙ ОПЫТ / ДРУГИЕ 1. Расскажите о вашей текущей работе / проекте? 2. Расскажите о своем предыдущем опыте и образовании? 3. Можете ли вы поехать в Техас? Как часто? 4. В вашем резюме говорится о ваших способностях решать проблемы - объясните на примере. 5. Что вы ожидаете получить от стажировки в нашей компании? 6. Что можно привнести в компанию? 7. Когда в прошлом вы были частью команды, которая работает исключительно хорошо, как вы думаете, в чем причины ее успеха? 8. Как вы в прошлом способствовали успеху вашего работодателя? 9. Если вы работаете над проблемой (например, с тестовым сценарием / ошибкой) и не можете получить необходимую информацию, кто, скорее всего, сможет вам помочь? 10. Расскажите нам о случае, когда на вашей предыдущей работе у вас возникли разногласия с членом команды. В чем была ситуация и как вы ее разрешили? 11. Можете ли вы привести один или два примера того, как вы ведете, направляете и мотивируете членов команды?
+Дайте мне выборочное утверждение, которое дает мне контактную информацию для клиентов в этих таблицах:
+ • имя {id, first, last} 
+ • адрес {id, street, city} 
+ • телефон {id, order, phone} 
+ • выберите * из имени, адреса, телефона, где name.id = address.id и name.id = phone.id
+  
 
-12. What qualities make a great leader and illustrate how you have used those qualities in the past.
-13. In the past when you have needed to involve your management to help solve a problem when did you do it and why was it appropriate?
-14. Please describe your relationship with development, release management, and product management at your previous employment.
-15. If there is no documentation available how do you know what to test and how to test?
-16. On your last project describe the testing process or testing cycle that was used. What kinds of people were involved and who did you work with?
-17. From your experience what are the most important factors that contribute to a successful software development and testing project?
-18. Can you work with no supervision, in a team?
-19. Can you work in startup environment?
-20. Why do you want to work in our company?
-21. What are your strengths?
-22. What are your weaknesses?
-   12. Какие качества делают великого лидера, и проиллюстрируйте, как вы использовали эти качества в прошлом.
-   13. В прошлом, когда вам приходилось привлекать руководство для решения проблемы, когда вы это делали и почему это было уместно?
-   14. Пожалуйста, опишите ваши отношения с разработкой, управлением выпусками и управлением продуктами на вашей предыдущей работе.
-   15. Если документации нет, как узнать, что и как тестировать?
-   16. В вашем последнем проекте опишите использованный процесс тестирования или цикл тестирования. Какие люди были задействованы и с кем вы работали?
-   17. Исходя из вашего опыта, каковы наиболее важные факторы, способствующие успешному проекту разработки и тестирования программного обеспечения?
-   18. Можете ли вы работать без присмотра в команде?
-   19. Сможете ли вы работать в среде стартапа?
-   20. Почему вы хотите работать в нашей компании?
-   21. Каковы ваши сильные стороны?
-   22. Каковы ваши слабые стороны?
-What is Quality? • Customer satisfaction. Subjective term. It will depend on who the ‘customer’ is. Each type of customer will have their own view on ‘quality’ •  Что такое качество? • Удовлетворенность клиентов. Субъективный термин. Это будет зависеть от того, кто является «покупателем». У каждого типа клиентов будет свой взгляд на «качество». What is Software Quality? • Measurement of how close is actual software product to the expected (intended) product • Customer satisfaction (to who?) • Что такое качество программного обеспечения? • Измерение того, насколько фактический программный продукт близок к ожидаемому (предполагаемому) продукту. • Удовлетворенность клиентов (для кого?) • Не путать с качественным программным обеспечением, которое достаточно безошибочно, доставляется вовремя и в рамках бюджета, отвечает требованиям и / или ожиданиям и поддерживается • Not to be confused with Quality Software, which is reasonably bug-free, delivered on time and within budget, meets requirements and/or expectations, and is maintainable What is Software Quality Assurance • The process of monitoring and improving all activities associated with software development, from requirements gathering, design and reviews to coding, testing and implementation. What is the difference between Software Testing and Software QA? • Testing is mainly focused on the source code (black, gray, white box) • “Quality Assurance”  measures the quality of processes used to create a quality product What is Software Testing? The purpose of testing is verification, validation and error detection (in order to find and fix the problems) – Verification is checking for conformance and consistency by evaluating the results against pre-specified requirements. (Verification: Are we building the system right?) – Validation is the process of checking that what has been specified is what the user actually wanted. (Validation: Are we building the right system?) – Error Detection: finding if things happen when they shouldn’t or things don’t happen when they should.
+##PRIOR EXPERIENCE/OTHER
+
+ 1. Tell me about your current job/project? 1. Расскажите о вашей текущей работе / проекте?
+ 2. Tell me about your prior experience and education? 2. Расскажите о своем предыдущем опыте и образовании?
+ 3. Can you travel to Texas? How often? 3. Можете ли вы поехать в Техас? Как часто?
+ 4. Your resume says about your abilities as problem solver – explain with an example. 4. В вашем резюме говорится о ваших способностях решать проблемы - объясните на примере.
+ 5. What do you expect to gain from your internship tenure at our company?  5. Что вы ожидаете получить от стажировки в нашей компании?
+ 6. What can you bring to the company? 6. Что можно привнести в компанию?
+ 7. When in the past you have been part of a team that is working exceptionally well, what do you think the reasons were for its success? 7. Когда в прошлом вы были частью команды, которая работает исключительно хорошо, как вы думаете, в чем причины ее успеха?
+ 8. How have you in the past contributed to the success of your employer? 8. Как вы в прошлом способствовали успеху вашего работодателя?
+ 9. If you are working a problem (i.e. test scenario/bug) and you are unable to get the information you need who is the most likely person who can help you? 9. Если вы работаете над проблемой (например, с тестовым сценарием / ошибкой) и не можете получить необходимую информацию, кто, скорее всего, сможет вам помочь?
+ 10. Tell us about a time in your previous employment when you had a disagreement with a team member. What was the situation and how did you solve it? 10. Расскажите нам о случае, когда на вашей предыдущей работе у вас возникли разногласия с членом команды. В чем была ситуация и как вы ее разрешили? 
+ 11. Can you provide one or two examples of how you lead, guide and motivate team members? 11. Можете ли вы привести один или два примера того, как вы ведете, направляете и мотивируете членов команды?
+ 12. What qualities make a great leader and illustrate how you have used those qualities in the past. 12. Какие качества делают великого лидера, и проиллюстрируйте, как вы использовали эти качества в прошлом.
+ 13. In the past when you have needed to involve your management to help solve a problem when did you do it and why was it appropriate? 13. В прошлом, когда вам приходилось привлекать руководство для решения проблемы, когда вы это делали и почему это было уместно?
+ 14. Please describe your relationship with development, release management, and product management at your previous employment. 14. Пожалуйста, опишите ваши отношения с разработкой, управлением выпусками и управлением продуктами на вашей предыдущей работе.
+ 15. If there is no documentation available how do you know what to test and how to test? 15. Если документации нет, как узнать, что и как тестировать?
+ 16. On your last project describe the testing process or testing cycle that was used. What kinds of people were involved and who did you work with? 16. В вашем последнем проекте опишите использованный процесс тестирования или цикл тестирования. Какие люди были задействованы и с кем вы работали?
+ 17. From your experience what are the most important factors that contribute to a successful software development and testing project? 17. Исходя из вашего опыта, каковы наиболее важные факторы, способствующие успешному проекту разработки и тестирования программного обеспечения?
+ 18. Can you work with no supervision, in a team? 18. Можете ли вы работать без присмотра в команде?
+ 19. Can you work in startup environment? 19. Сможете ли вы работать в среде стартапа?
+ 20. Why do you want to work in our company? 20. Почему вы хотите работать в нашей компании?
+ 21. What are your strengths? 21. Каковы ваши сильные стороны?
+ 22. What are your weaknesses? 22. Каковы ваши слабые стороны?  
+   
+ ## Answers 
+
+### What is Quality? 
+• Customer satisfaction. Subjective term. It will depend on who the ‘customer’ is. Each type of customer will have their own view on ‘quality’
+Что такое качество? 
+• Удовлетворенность клиентов. Субъективный термин. Это будет зависеть от того, кто является «покупателем». У каждого типа клиентов будет свой взгляд на «качество». 
+
+### What is Software Quality? 
+• Measurement of how close is actual software product to the expected (intended) product 
+• Customer satisfaction (to who?) 
+• Not to be confused with Quality Software, which is reasonably bug-free, delivered on time and within budget, meets requirements and/or expectations, and is maintainable 
+Что такое качество программного обеспечения? 
+• Измерение того, насколько фактический программный продукт близок к ожидаемому (предполагаемому) продукту. 
+• Удовлетворенность клиентов (для кого?) 
+• Не путать с качественным программным обеспечением, которое достаточно безошибочно, доставляется вовремя и в рамках бюджета, отвечает требованиям и / или ожиданиям и поддерживается
+
+### What is Software Quality Assurance 
+• The process of monitoring and improving all activities associated with software development, from requirements gathering, design and reviews to coding, testing and implementation.
+
+### What is the difference between Software Testing and Software QA? 
+• Testing is mainly focused on the source code (black, gray, white box) 
+• “Quality Assurance”  measures the quality of processes used to create a quality product 
+
+### What is Software Testing? 
+The purpose of testing is verification, validation and error detection (in order to find and fix the problems) 
+– Verification is checking for conformance and consistency by evaluating the results against pre-specified requirements. 
+(Verification: Are we building the system right?) 
+– Validation is the process of checking that what has been specified is what the user actually wanted. 
+(Validation: Are we building the right system?) 
+– Error Detection: finding if things happen when they shouldn’t or things don’t happen when they should.
 
 Что такое гарантия качества программного обеспечения • Процесс мониторинга и улучшения всех действий, связанных с разработкой программного обеспечения, от сбора требований, проектирования и анализа до кодирования, тестирования и внедрения. В чем разница между тестированием программного обеспечения и контролем качества программного обеспечения? • Тестирование в основном сосредоточено на исходном коде (черный, серый, белый прямоугольник) • «Обеспечение качества» измеряет качество процессов, используемых для создания качественного продукта. Что такое тестирование программного обеспечения? Целью тестирования является проверка, проверка и обнаружение ошибок (для поиска и устранения проблем).
 
@@ -229,8 +256,10 @@ What is the difference between Software Testing and Software QA? • Testing is 
 
   Что такое тестирование программного обеспечения?
 • Целью тестирования является проверка, проверка и обнаружение ошибок (для поиска и устранения проблем).
-• - Верификация - это проверка соответствия и согласованности путем оценки результатов на соответствие заранее заданным требованиям. (Проверка: правильно ли мы строим систему?)
-• - Валидация - это процесс проверки того, что было указано именно то, что действительно нужно пользователю. (Проверка: строим ли мы правильную систему?)
+• - Верификация - это проверка соответствия и согласованности путем оценки результатов на соответствие заранее заданным требованиям. 
+(Проверка: правильно ли мы строим систему?)
+• - Валидация - это процесс проверки того, что было указано именно то, что действительно нужно пользователю. 
+(Проверка: строим ли мы правильную систему?)
 • - Обнаружение ошибок: определение того, происходят ли вещи, когда они не должны, или что-то не происходит, когда они должны.
 • Можно ли найти / исправить все ошибки в программном продукте до того, как он попадет к клиентам? Зачем тестировать?
 •     • Для создания и обеспечения соблюдения бизнес-систем организации QA (планирование тестирования, отслеживание ошибок, отчеты об ошибках, автоматизация тестирования, сертификация выпуска и другие)
