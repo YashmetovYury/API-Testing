@@ -1,80 +1,152 @@
-#SQA QUESTIONS
-##Basic
+# SQA QUESTIONS
+
+## Basic
 
 1. What is black/white box testing? 1. Что такое тестирование черного / белого ящика? 
+
 2. What are Bug Report components? 2. Что представляют собой компоненты отчета об ошибке? 
-3. What is a Test Case? 3. Что такое Тест Кейс? 
+
+3. What is a Test Case? 3. Что такое Тест Кейс?
+
 4. What is a test plan? 4. Что такое план тестирования?
+
 5. Describe the QA Process 5. Опишите процесс обеспечения качества. 
+
 6. How can you describe QA process in your last company? 6. Как вы можете описать процесс обеспечения качества в вашей последней компании?
+
 7. How would you approach testing of the Gmail application? 7. Как бы вы подошли к тестированию приложения Gmail?
+
 8. If there are so many settings/options to choose, how to write test cases? 8. Если нужно выбрать так много настроек / опций, как писать тестовые примеры?
+
 9. If you log a bug and the developer says she canít reproduce it, what should you do? 9. Если вы регистрируете ошибку, а разработчик говорит, что не может ее воспроизвести, что делать?
+
 10. If you find a bug and the developer says it is as-designed, what would you do? 10. Если вы обнаружите ошибку, и разработчик скажет, что она соответствует дизайну, что вы будете делать?
+
 11. If you try to print a document to a printer, but the output is not there.† What might be the cause? 11. Если вы пытаетесь распечатать документ на принтере, но распечатки нет. † В чем может быть причина?
+
 12. Beside test case & test plan, what documents might be required to produce within QA department? 12. Какие документы могут потребоваться, помимо контрольного примера и плана тестирования, в отделе контроля качества?
+
 13. Describe Test matrix 13. Опишите тестовую матрицу.
+
 14. Describe risk analysis in software testing 14. Опишите анализ рисков при тестировании программного обеспечения.
+
 15. What is the difference between a consumer product compared to enterprise product? 15. В чем разница между потребительским продуктом и продуктом предприятия?
+
 16. How do you test a toaster? 16. Как проверить тостер?
+
 17. How do you test a banking ATM machine? 17. Как вы тестируете банковский банкомат?
+
 18. What is use case? 18. Что такое вариант использования?
+
 19. What is Unit testing? 19. Что такое модульное тестирование? 
+
 20. What is API Testing? 20. Что такое тестирование API?
+
 21. What is the performance testing? 21. Что такое тестирование производительности?
+
 22. What is stress testing? 22. Что такое стресс-тестирование?
+
 23. What is the most important impact QA can have on a product development process? 23. Какое наиболее важное влияние QA может оказать на процесс разработки продукта?
+
 24. How do you determine when you have done enough testing? 24. Как определить, достаточно ли вы выполнили тестирование?
+
 25. Describe the bug life cycle? 25. Опишите жизненный цикл ошибки?
+
 26. What is the software development life cycle? 26. Каков жизненный цикл разработки программного обеспечения?
+
 27. How can a tester be sure that bug was fixed? 27. Как тестировщик может быть уверен, что ошибка исправлена?
+
 28. What is a Regression test? 28. Что такое регрессионный тест?
+
 29. Define User Acceptance test? 29. Определить приемочный тест пользователя?
+
 30. What do you prefer: white or black box testing? 30. Что вы предпочитаете: тестирование по белому или черному ящику?
+
 31. How will you write test cases for LOGIN & PASSWORD functionality, positive and negative testing? 31. Как вы будете писать тестовые примеры для функциональности ВХОДА И ПАРОЛЯ, положительного и отрицательного тестирования?
+
 32. How do you see yourself in 3-5 years as a QA engineer? 32. Каким вы видите себя через 3-5 лет в качестве инженера по обеспечению качества?
+
 33. What is the difference between a test case and a test plan? 33. В чем разница между тестовым набором и планом тестирования?
+
 34. Why do you choose the QA career? 34. Почему вы выбрали карьеру QA?
+
 35. Describe a bug 35. Опишите ошибку.
+
 36. What kind of issues do you encounter in browser compatibility testing? 36. С какими проблемами вы сталкиваетесь при тестировании совместимости браузеров?
+
 37. How do you prepare a browser for GUI testing? 37. Как подготовить браузер к тестированию графического интерфейса?
+
 38. When do you automate testing? 38. Когда автоматизировать тестирование?
+
 39. Define Boundary testing? 39. Определить граничное тестирование?
+
 40. What is error handling testing? 40. Что такое тестирование обработки ошибок?
+
 41. What are possible configurations that could affect the testing strategy of any web site? 41. Какие возможные конфигурации могут повлиять на стратегию тестирования любого веб-сайта?
+
 42. What are the differences between testing WEB application and testing client-server application? 42. В чем разница между тестированием WEB-приложения и тестированием клиент-серверного приложения?
+
 43. How should QA engineer communicate with a developer? 43. Как QA-инженер должен общаться с разработчиком?
+
 44. What are the basic rules of creating of an automation test project? 44. Каковы основные правила создания тестового проекта автоматизации?
+
 45. What is the test documentation? Tell about this all that you know? 45. Что такое тестовая документация? Расскажи об этом все, что знаешь?
+
 46. How many bugs do you report in one bug report? Why? 46. ​​Сколько ошибок вы сообщаете в одном отчете об ошибках? Почему?
+
 47. When does Testing begin? 47. Когда начинается тестирование?
+
 48. What is Re-testing? 48. Что такое повторное тестирование?
-49. What is QA Methodology? 49. Что такое методология обеспечения качества?   
+
+49. What is QA Methodology? 49. Что такое методология обеспечения качества?  
+
 50. What are some of the differences between Agile and Waterfall? 50. В чем разница между Agile и Waterfall?
+
 51. If you found a bug what do you have to do next? 51. Если вы обнаружили ошибку, что делать дальше?
+
 52. How did you write test plans; test cases? 52. Как вы составляли планы тестирования; тестовые случаи?
+
 53. Explain Multi-tiered Architecture 53. Объяснение многоуровневой архитектуры.
+
 54. How do you perform GUI testing? 54. Как вы проводите тестирование графического интерфейса?
+
 55. Tell me about the testcase development process? 55. Расскажите о процессе разработки тесткейса?
+
 56. What is the basic difference between B2B and e-commerce sites? 56. В чем основное различие между сайтами B2B и электронной коммерцией? 
+
 57. Which browsers do you like and why? 57. Какие браузеры вам нравятся и почему?
 
-##Technic
+
+## Technic
 
 1. What is web based application? 1. Что такое веб-приложение?
+
 2. How to join tables in SQL? 2. Как соединить таблицы в SQL?
+
 3. Difference between Application Servers and Web server? 3. Разница между серверами приложений и веб-сервером?
+
 4. What is DHCP/DNS? 4. Что такое DHCP / DNS?
+
 5. What is TCP/IP, HTTP protocols and how they work? 5. Что такое протоколы TCP / IP, HTTP и как они работают?
+
 6. What is VPN? 6. Что такое VPN?
+
 7. What would be the “suspicions points” if the HTML+Javascript file should contain the phrase: “George’s resume has > skills than mine” 7. Каковы были бы «подозрения», если бы файл HTML + Javascript содержал фразу: «В резюме Джорджа> навыков, чем у меня»
+
 8. “IPconfig”, what is the similar command in UNIX? 8. «IPconfig», что представляет собой аналогичная команда в UNIX?
+
 9. What UNIX commands do you commonly use? 9. Какие команды UNIX вы обычно используете?
+
 10. What typical controls can web pages contain? 10. Какие типичные элементы управления могут содержать веб-страницы?
+
 11. What is HTTP protocol? How it works? Can you tell me any HTTP request method and describe it? Can you tell me any HTTP status code and describe it? 11. Что такое протокол HTTP? Как это работает? Можете ли вы назвать какой-либо метод HTTP-запроса и описать его? Можете ли вы назвать какой-либо код статуса HTTP и описать его?
+
 12. What are cookies? 12. Что такое куки?
+
 13. What are browsers? Which one do you know? Can you show me how to see source code of a web page and where it keeps cookies? 13. Что такое браузеры? Кого из них вы знаете? Вы можете показать мне, как посмотреть исходный код веб-страницы и где хранятся файлы cookie?
+
 14. How do you know what version of Java you are currently using? 14. Как узнать, какую версию Java вы используете в настоящее время?
+
 15. Give me a select statement that gives me the contact information for customers in these tables:
 • name {id,first,last}
 • address {id,street, city}
@@ -87,43 +159,68 @@
  • выберите * из имени, адреса, телефона, где name.id = address.id и name.id = phone.id
   
 
-##PRIOR EXPERIENCE/OTHER
+## PRIOR EXPERIENCE/OTHER
 
- 1. Tell me about your current job/project? 1. Расскажите о вашей текущей работе / проекте?
- 2. Tell me about your prior experience and education? 2. Расскажите о своем предыдущем опыте и образовании?
- 3. Can you travel to Texas? How often? 3. Можете ли вы поехать в Техас? Как часто?
- 4. Your resume says about your abilities as problem solver – explain with an example. 4. В вашем резюме говорится о ваших способностях решать проблемы - объясните на примере.
- 5. What do you expect to gain from your internship tenure at our company?  5. Что вы ожидаете получить от стажировки в нашей компании?
- 6. What can you bring to the company? 6. Что можно привнести в компанию?
- 7. When in the past you have been part of a team that is working exceptionally well, what do you think the reasons were for its success? 7. Когда в прошлом вы были частью команды, которая работает исключительно хорошо, как вы думаете, в чем причины ее успеха?
- 8. How have you in the past contributed to the success of your employer? 8. Как вы в прошлом способствовали успеху вашего работодателя?
- 9. If you are working a problem (i.e. test scenario/bug) and you are unable to get the information you need who is the most likely person who can help you? 9. Если вы работаете над проблемой (например, с тестовым сценарием / ошибкой) и не можете получить необходимую информацию, кто, скорее всего, сможет вам помочь?
- 10. Tell us about a time in your previous employment when you had a disagreement with a team member. What was the situation and how did you solve it? 10. Расскажите нам о случае, когда на вашей предыдущей работе у вас возникли разногласия с членом команды. В чем была ситуация и как вы ее разрешили? 
- 11. Can you provide one or two examples of how you lead, guide and motivate team members? 11. Можете ли вы привести один или два примера того, как вы ведете, направляете и мотивируете членов команды?
- 12. What qualities make a great leader and illustrate how you have used those qualities in the past. 12. Какие качества делают великого лидера, и проиллюстрируйте, как вы использовали эти качества в прошлом.
- 13. In the past when you have needed to involve your management to help solve a problem when did you do it and why was it appropriate? 13. В прошлом, когда вам приходилось привлекать руководство для решения проблемы, когда вы это делали и почему это было уместно?
- 14. Please describe your relationship with development, release management, and product management at your previous employment. 14. Пожалуйста, опишите ваши отношения с разработкой, управлением выпусками и управлением продуктами на вашей предыдущей работе.
- 15. If there is no documentation available how do you know what to test and how to test? 15. Если документации нет, как узнать, что и как тестировать?
- 16. On your last project describe the testing process or testing cycle that was used. What kinds of people were involved and who did you work with? 16. В вашем последнем проекте опишите использованный процесс тестирования или цикл тестирования. Какие люди были задействованы и с кем вы работали?
- 17. From your experience what are the most important factors that contribute to a successful software development and testing project? 17. Исходя из вашего опыта, каковы наиболее важные факторы, способствующие успешному проекту разработки и тестирования программного обеспечения?
- 18. Can you work with no supervision, in a team? 18. Можете ли вы работать без присмотра в команде?
- 19. Can you work in startup environment? 19. Сможете ли вы работать в среде стартапа?
- 20. Why do you want to work in our company? 20. Почему вы хотите работать в нашей компании?
- 21. What are your strengths? 21. Каковы ваши сильные стороны?
- 22. What are your weaknesses? 22. Каковы ваши слабые стороны?  
-   
- ## Answers 
+1. Tell me about your current job/project? 1. Расскажите о вашей текущей работе / проекте?
+
+2. Tell me about your prior experience and education? 2. Расскажите о своем предыдущем опыте и образовании?
+
+3. Can you travel to Texas? How often? 3. Можете ли вы поехать в Техас? Как часто?
+
+4. Your resume says about your abilities as problem solver – explain with an example. 4. В вашем резюме говорится о ваших способностях решать проблемы - объясните на примере.
+
+5. What do you expect to gain from your internship tenure at our company?  5. Что вы ожидаете получить от стажировки в нашей компании?
+
+6. What can you bring to the company? 6. Что можно привнести в компанию?
+
+7. When in the past you have been part of a team that is working exceptionally well, what do you think the reasons were for its success? 7. Когда в прошлом вы были частью команды, которая работает исключительно хорошо, как вы думаете, в чем причины ее успеха?
+
+8. How have you in the past contributed to the success of your employer? 8. Как вы в прошлом способствовали успеху вашего работодателя?
+
+9. If you are working a problem (i.e. test scenario/bug) and you are unable to get the information you need who is the most likely person who can help you? 9. Если вы работаете над проблемой (например, с тестовым сценарием / ошибкой) и не можете получить необходимую информацию, кто, скорее всего, сможет вам помочь?
+
+10. Tell us about a time in your previous employment when you had a disagreement with a team member. What was the situation and how did you solve it? 10. Расскажите нам о случае, когда на вашей предыдущей работе у вас возникли разногласия с членом команды. В чем была ситуация и как вы ее разрешили? 
+
+11. Can you provide one or two examples of how you lead, guide and motivate team members? 11. Можете ли вы привести один или два примера того, как вы ведете, направляете и мотивируете членов команды?
+
+12. What qualities make a great leader and illustrate how you have used those qualities in the past. 12. Какие качества делают великого лидера, и проиллюстрируйте, как вы использовали эти качества в прошлом.
+
+13. In the past when you have needed to involve your management to help solve a problem when did you do it and why was it appropriate? 13. В прошлом, когда вам приходилось привлекать руководство для решения проблемы, когда вы это делали и почему это было уместно?
+
+14. Please describe your relationship with development, release management, and product management at your previous employment. 14. Пожалуйста, опишите ваши отношения с разработкой, управлением выпусками и управлением продуктами на вашей предыдущей работе.
+
+15. If there is no documentation available how do you know what to test and how to test? 15. Если документации нет, как узнать, что и как тестировать?
+
+16. On your last project describe the testing process or testing cycle that was used. What kinds of people were involved and who did you work with? 16. В вашем последнем проекте опишите использованный процесс тестирования или цикл тестирования. Какие люди были задействованы и с кем вы работали?
+
+17. From your experience what are the most important factors that contribute to a successful software development and testing project? 17. Исходя из вашего опыта, каковы наиболее важные факторы, способствующие успешному проекту разработки и тестирования программного обеспечения?
+
+18. Can you work with no supervision, in a team? 18. Можете ли вы работать без присмотра в команде?
+
+19. Can you work in startup environment? 19. Сможете ли вы работать в среде стартапа?
+
+20. Why do you want to work in our company? 20. Почему вы хотите работать в нашей компании?
+
+21. What are your strengths? 21. Каковы ваши сильные стороны?
+
+22. What are your weaknesses? 22. Каковы ваши слабые стороны?  
+
+
+## Answers 
+
 
 ### What is Quality? 
 • Customer satisfaction. Subjective term. It will depend on who the ‘customer’ is. Each type of customer will have their own view on ‘quality’
-Что такое качество? 
+
+### Что такое качество? 
 • Удовлетворенность клиентов. Субъективный термин. Это будет зависеть от того, кто является «покупателем». У каждого типа клиентов будет свой взгляд на «качество». 
 
 ### What is Software Quality? 
 • Measurement of how close is actual software product to the expected (intended) product 
 • Customer satisfaction (to who?) 
 • Not to be confused with Quality Software, which is reasonably bug-free, delivered on time and within budget, meets requirements and/or expectations, and is maintainable 
-Что такое качество программного обеспечения? 
+
+### Ч### то такое качество программного обеспечения? 
 • Измерение того, насколько фактический программный продукт близок к ожидаемому (предполагаемому) продукту. 
 • Удовлетворенность клиентов (для кого?) 
 • Не путать с качественным программным обеспечением, которое достаточно безошибочно, доставляется вовремя и в рамках бюджета, отвечает требованиям и / или ожиданиям и поддерживается
@@ -143,30 +240,127 @@ The purpose of testing is verification, validation and error detection (in order
 (Validation: Are we building the right system?) 
 – Error Detection: finding if things happen when they shouldn’t or things don’t happen when they should.
 
-Что такое гарантия качества программного обеспечения • Процесс мониторинга и улучшения всех действий, связанных с разработкой программного обеспечения, от сбора требований, проектирования и анализа до кодирования, тестирования и внедрения. В чем разница между тестированием программного обеспечения и контролем качества программного обеспечения? • Тестирование в основном сосредоточено на исходном коде (черный, серый, белый прямоугольник) • «Обеспечение качества» измеряет качество процессов, используемых для создания качественного продукта. Что такое тестирование программного обеспечения? Целью тестирования является проверка, проверка и обнаружение ошибок (для поиска и устранения проблем).
+
+Целью тестирования является проверка, валидация и обнаружение ошибок (чтобы найти и исправить проблемы) l
+
+
+#### Что такое гарантия качества программного обеспечения 
+
+• Процесс мониторинга и улучшения всех действий, связанных с разработкой программного обеспечения, от сбора требований, проектирования и анализа до кодирования, тестирования и внедрения. 
+
+#### В чем разница между тестированием программного обеспечения и контролем качества программного обеспечения?
+• Тестирование в основном сосредоточено на исходном коде (черный, серый, белый прямоугольник) • «Обеспечение качества» измеряет качество процессов, используемых для создания качественного продукта. Что такое тестирование программного обеспечения? Целью тестирования является проверка, проверка и обнаружение ошибок (для поиска и устранения проблем).
 
 Верификация - это проверка соответствия и согласованности путем оценки результатов на соответствие заранее заданным требованиям. (Проверка: правильно ли мы строим систему?)
-Валидация - это процесс проверки того, что было указано именно то, что действительно нужно пользователю. (Проверка: строим ли мы правильную систему?)- Обнаружение ошибок: определение того, происходят ли вещи, когда они не должны, или что-то не происходит, когда они должны. Is it possible to find/fix all the bugs in a software product before it goes to the customers? Why test? • To establish and to enforce business systems of the QA Organization (Test planning, bug tracking, bug reporting, test automation, release certification, and others)   What is black/white/gray box testing? • Black box software testing is done without access to the source code. • White box testing is done with access to the code. Bugs are reported at the source code level, not behavioral. • Gray box testing is using structural, design, and environment information (complete or incomplete) to expand or focus black box testing and to enhance testing productivity by using appropriate methods and tools.   Describe a bug? • Mismatch between actual behavior of a software application and its intended (expected) behavior. We learn about expected behavior from requirements, specifications, other technical documentation.   What is use case? • Use case is a format used by Business Analysts for specifying system requirements. Each use case normally represents completed business operation performed by user.  From the QA prospective we will execute corresponding End-To-End test to make sure the requirement is implemented.
-What is the most important impact QA can have on a product development process? • Clarifying requirements • Bringing down percentage of code re-written due to the change in requirements. Можно ли найти / исправить все ошибки в программном продукте до того, как он попадет к клиентам? Зачем тестировать?• Для создания и обеспечения соблюдения бизнес-систем организации QA (планирование тестирования, отслеживание ошибок, отчеты об ошибках, автоматизация тестирования, сертификация выпуска и другие) • Что такое тестирование черного / белого / серого ящика? • Тестирование программного обеспечения «черного ящика» выполняется без доступа к исходному коду. • Тестирование белого ящика выполняется с доступом к коду. Об ошибках сообщается на уровне исходного кода, а не на уровне поведения. • Тестирование «серого ящика» использует структурную, конструктивную информацию и информацию о среде (полную или неполную) для расширения или фокусирования тестирования «черного ящика» и повышения производительности тестирования с помощью соответствующих методов и инструментов. • Опишите ошибку? • Несоответствие между фактическим поведением программного приложения и его предполагаемым (ожидаемым) поведением. Мы узнаем об ожидаемом поведении из требований, спецификаций и другой технической документации. • Что такое вариант использования? • Вариант использования - это формат, используемый бизнес-аналитиками для определения системных требований. Каждый вариант использования обычно представляет собой завершенную бизнес-операцию, выполняемую пользователем. С точки зрения обеспечения качества мы проведем соответствующий сквозной тест, чтобы убедиться, что требование выполнено. • Какое самое важное влияние QA может оказать на процесс разработки продукта? • Уточняющие требования • Снижение процента переписываемого кода в связи с изменением требований.  
 
-What is Negative testing? Positive? • Positive testing aimed at showing software works as intended when user does correct actions. • Negative testing aimed at showing that software handles properly situations in which user acts not as user is supposed to act (invalid inputs, unreasonable selections of settings, etc.)   Which type of testing results in highest number of bugs found? • Negative testing (versus Positive testing of same type)   What is the software development life cycle? • The software development life cycle (SDLC) is a conceptual model used in project management that describes the stages involved in an information system development project, from an initial feasibility study through maintenance of the completed application. What is a Test Case? • Set of conditions and/or variables under which a tester will determine if a requirement upon an application is satisfied   What does Test Case include? When planning for testing the test case: • Test case ID • The purpose (Title, Description) of the test case • An instruction on how to get from the application base state to a verifiable application output or expected result • Expected result When execute test cases we need two more columns: • Actual result • PASS/FAIL indication   Что такое отрицательное тестирование? Положительный? • Положительное тестирование, направленное на демонстрацию того, что программное обеспечение работает должным образом, когда пользователь выполняет правильные действия. • Отрицательное тестирование, направленное на демонстрацию того, что программное обеспечение правильно обрабатывает ситуации, в которых пользователь действует не так, как должен действовать (неверные данные, необоснованный выбор настроек и т. Д.)
+Валидация - это процесс проверки того, что было указано именно то, что действительно нужно пользователю. 
+(Проверка: строим ли мы правильную систему?)- Обнаружение ошибок: определение того, происходят ли вещи, когда они не должны, или что-то не происходит, когда они должны. 
 
-Какой тип тестирования приводит к наибольшему количеству обнаруженных ошибок? • Отрицательное тестирование (по сравнению с положительным тестированием того же типа)
+Is it possible to find/fix all the bugs in a software product before it goes to the customers? Why test?
+ • To establish and to enforce business systems of the QA Organization (Test planning, bug tracking, bug reporting, test automation, release certification, and others)   
+ 
+ What is black/white/gray box testing? 
+ • Black box software testing is done without access to the source code. • White box testing is done with access to the code. Bugs are reported at the source code level, not behavioral.
+  • Gray box testing is using structural, design, and environment information (complete or incomplete) to expand or focus black box testing and to enhance testing productivity by using appropriate methods and tools.   Describe a bug?
+   • Mismatch between actual behavior of a software application and its intended (expected) behavior. We learn about expected behavior from requirements, specifications, other technical documentation.   What is use case?
+    • Use case is a format used by Business Analysts for specifying system requirements. Each use case normally represents completed business operation performed by user.  From the QA prospective we will execute corresponding End-To-End test to make sure the requirement is implemented.
 
-Каков жизненный цикл разработки программного обеспечения? • Жизненный цикл разработки программного обеспечения (SDLC) - это концептуальная модель, используемая в управлении проектами, которая описывает этапы, включенные в проект разработки информационной системы, от первоначального технико-экономического обоснования до обслуживания завершенного приложения. Что такое тестовый пример? • Набор условий и / или переменных, при которых тестировщик будет определять, удовлетворяются ли требования к приложению. Что включает в себя тестовый набор? При планировании тестирования тестового примера: • ID тестового случая • Цель (название, описание) тестового примера. • Инструкция о том, как перейти из базового состояния приложения в проверяемый вывод приложения или ожидаемый результат. • Ожидаемый результат При выполнении тестовых примеров нам понадобятся еще два столбца: • Фактический результат • Индикация PASS / FAIL What is a test plan? • Document that describes the objectives, scope, approach, and focus of a software testing effort. • The process of preparing a test plan is a useful way to think through the efforts needed to validate the acceptability of a software product. The completed document will help people outside the test group understand the ‘why’ and ‘how’ of product testing. It should be thorough enough to be useful but not so thorough that no one outside the test group will read it. What does Test Plan include? – list of possible items. Most common items are in bold. The following are some of the items that might be included in a test plan, depending on the particular project:
+What is the most important impact QA can have on a product development process? 
+• Clarifying requirements 
+• Bringing down percentage of code re-written due to the change in requirements.
 
+Можно ли найти / исправить все ошибки в программном продукте до того, как он попадет к клиентам?
+ Зачем тестировать?
+ • Для создания и обеспечения соблюдения бизнес-систем организации QA (планирование тестирования, отслеживание ошибок, отчеты об ошибках, автоматизация тестирования, сертификация выпуска и другие)
+  • Что такое тестирование черного / белого / серого ящика?
+   • Тестирование программного обеспечения «черного ящика» выполняется без доступа к исходному коду. 
+   • Тестирование белого ящика выполняется с доступом к коду. Об ошибках сообщается на уровне исходного кода, а не на уровне поведения. 
+   • Тестирование «серого ящика» использует структурную, конструктивную информацию и информацию о среде (полную или неполную) для расширения или фокусирования тестирования «черного ящика» и повышения производительности тестирования с помощью соответствующих методов и инструментов. 
+   • Опишите ошибку? 
+   •
+    Несоответствие между фактическим поведением программного приложения и его предполагаемым (ожидаемым) поведением. Мы узнаем об ожидаемом поведении из требований, спецификаций и другой технической документации
+
+    Что такое вариант использования?
+     • Вариант использования - это формат, используемый бизнес-аналитиками для определения системных требований. Каждый вариант использования обычно представляет собой завершенную бизнес-операцию, выполняемую пользователем. С точки зрения обеспечения качества мы проведем соответствующий сквозной тест, чтобы убедиться, что требование выполнено. • Какое самое важное влияние QA может оказать на процесс разработки продукта? 
+   • Уточняющие требования 
+   • Снижение процента переписываемого кода в связи с изменением требований.  
+
+---
+
+#### What is Negative testing? Positive? 
+• Positive testing aimed at showing software works as intended when user does correct actions. 
+• Negative testing aimed at showing that software handles properly situations in which user acts not as user is supposed to act (invalid inputs, unreasonable selections of settings, etc.)   Which type of testing results in highest number of bugs found? 
+• Negative testing (versus Positive testing of same type) 
+
+---
+#### What is the software development life cycle?
+• The software development life cycle (SDLC) is a conceptual model used in project management that describes the stages involved in an information system development project, from an initial feasibility study through maintenance of the completed application.
+
+---
+
+#### What is a Test Case?
+• Set of conditions and/or variables under which a tester will determine if a requirement upon an application is satisfied
+
+---
+
+#### What does Test Case include?
+When planning for testing the test case: 
+• Test case ID 
+• The purpose (Title, Description) of the test case 
+• An instruction on how to get from the application base state to a verifiable application output or expected result 
+• Expected result When execute test cases we need two more columns: 
+• Actual result 
+• PASS/FAIL indication
+
+---
+
+Что такое отрицательное тестирование? Положительный?
+• Положительное тестирование, направленное на демонстрацию того, что программное обеспечение работает должным образом, когда пользователь выполняет правильные действия. • Отрицательное тестирование, направленное на демонстрацию того, что программное обеспечение правильно обрабатывает ситуации, в которых пользователь действует не так, как должен действовать (неверные данные, необоснованный выбор настроек и т. Д.)
+
+
+#### Какой тип тестирования приводит к наибольшему количеству обнаруженных ошибок?
+• Отрицательное тестирование (по сравнению с положительным тестированием того же типа)
+
+
+#### Каков жизненный цикл разработки программного обеспечения? 
+• Жизненный цикл разработки программного обеспечения (SDLC) - это концептуальная модель, используемая в управлении проектами, которая описывает этапы, включенные в проект разработки информационной системы, от первоначального технико-экономического обоснования до обслуживания завершенного приложения. 
+
+#### Что такое тестовый пример?
+• Набор условий и / или переменных, при которых тестировщик будет определять, удовлетворяются ли требования к приложению. 
+
+Что включает в себя тестовый набор?
+При планировании тестирования тестового примера: 
+• ID тестового случая • Цель (название, описание) тестового примера. 
+• Инструкция о том, как перейти из базового состояния приложения в проверяемый вывод приложения или ожидаемый результат. 
+• Ожидаемый результат При выполнении тестовых примеров нам понадобятся еще два столбца: 
+• Фактический результат 
+• Индикация PASS / FAIL
+
+What is a test plan? 
+• Document that describes the objectives, scope, approach, and focus of a software testing effort. 
+• The process of preparing a test plan is a useful way to think through the efforts needed to validate the acceptability of a software product. The completed document will help people outside the test group understand the ‘why’ and ‘how’ of product testing. It should be thorough enough to be useful but not so thorough that no one outside the test group will read it. 
+
+What does Test Plan include? 
+– list of possible items. 
+Most common items are in bold. The following are some of the items that might be included in a test plan, depending on the particular project:
 Title
 Identification of software including version/release numbers
 Revision history of document including authors, dates, approvals
 Table of Contents
-Purpose of document, intended audience * Objective of testing effort     * Software product overview
+Purpose of document, intended audience 
+* Objective of testing effort     
+* Software product overview
 Relevant related document list, such as requirements, design documents, other test plans, etc.
 Relevant standards or legal requirements
 Traceability requirements
 Relevant naming conventions and identifier conventions
 Overall software project organization and personnel/contact-info/responsibilities
 Test organization and personnel/contact-info/responsibilities
-Assumptions and dependencies Что такое план тестирования? • Документ, описывающий цели, объем, подход и направленность усилий по тестированию программного обеспечения. • Процесс подготовки плана тестирования - полезный способ продумать усилия, необходимые для проверки приемлемости программного продукта. Заполненный документ поможет людям, не входящим в группу тестирования, понять, «почему» и «как» тестировать продукт. Он должен быть достаточно подробным, чтобы быть полезным, но не настолько подробным, чтобы его не прочитал никто за пределами тестовой группы. Что включает в себя план тестирования? - список возможных предметов. Наиболее распространенные элементы:
+Assumptions and dependencies 
+
+Что такое план тестирования?
+• Документ, описывающий цели, объем, подход и направленность усилий по тестированию программного обеспечения. 
+• Процесс подготовки плана тестирования - полезный способ продумать усилия, необходимые для проверки приемлемости программного продукта. Заполненный документ поможет людям, не входящим в группу тестирования, понять, «почему» и «как» тестировать продукт. Он должен быть достаточно подробным, чтобы быть полезным, но не настолько подробным, чтобы его не прочитал никто за пределами тестовой группы. Что включает в себя план тестирования? - список возможных предметов. Наиболее распространенные элементы:
 Заголовок
 Идентификация программного обеспечения, включая номера версий / выпусков
 История изменений документа, включая авторов, даты, согласования
@@ -181,7 +375,11 @@ Assumptions and dependencies Что такое план тестирования
 Общая организация программного проекта и персонал / контактная информация / обязанности
 Организация тестирования и персонал / контактная информация / обязанности
 Предположения и зависимости
-* Project risk analysis     * Testing priorities and focus     * Scope and limitations of testing
+
+
+* Project risk analysis
+* Testing priorities and focus
+* Scope and limitations of testing
 
 Test outline – a decomposition of the test approach by test type, feature, functionality, process, system, module, etc. as applicable
 Outline of data input equivalence classes, boundary value analysis, error classes
@@ -202,6 +400,7 @@ Reporting requirements and testing deliverables
 Software entrance and exit criteria
 Initial sanity testing period and criteria
 Test suspension and restart criteria
+
 Анализ рисков проекта
 Приоритеты тестирования и фокус
 Объем и ограничения тестирования
@@ -225,11 +424,19 @@ Test suspension and restart criteria
 Критерии входа и выхода программного обеспечения
 Период и критерии начального тестирования на вменяемость* Критерии приостановки и перезапуска теста     * Personnel allocation
 Personnel pre-training needs
+
 Test site/location
 Outside test organizations to be utilized and their purpose, responsibilities, deliverables, contact persons, and coordination issues
 Relevant proprietary, classified, security, and licensing issues
 Open issues
-Appendix – glossary, acronyms, etc.   Write test cases for a text field? • 5 test cases for capacity including 2 for each boundary and one for the class between boundaries • 3 test cases for valid/invalid input of letters, digits, special characters • One test cases for each allowed special character (email field as an example) • Functionality testing if there is any functionality (validation of input as an example, case sensitivity, required field, etc.)   What is Test matrix? Data collection mechanism. It provides a structure for testing the effect of combining two or more variables, circumstances, types of hardware, or events. Row and column headings identify the test conditions. Cells keep the results of test execution. If there are so many settings/options to choose, how to write test cases? • Test cases should be developed for all most common potential scenarios • They should cover most of the positive input * Распределение персонала * Потребности в предварительной подготовке персонала * Тестовый участок / место * Внешние испытательные организации, которые будут использоваться, и их цели, обязанности, результаты, контактные лица и вопросы координации * Соответствующие вопросы, связанные с собственностью, секретностью, безопасностью и лицензированием. * Открытые вопросы * Приложение - глоссарий, сокращения и т. Д. • Написать тестовые примеры для текстового поля? • 5 тестовых примеров для емкости, включая 2 для каждой границы и один для класса между границами • 3 тестовых случая для правильного / неправильного ввода букв, цифр, специальных символов • Один тестовый набор для каждого разрешенного специального символа (например, поле электронной почты) • Функциональное тестирование, если есть какие-либо функции (проверка ввода в качестве примера, чувствительность к регистру, обязательное поле и т. Д.) • Что такое тестовая матрица? • Механизм сбора данных. Он предоставляет структуру для тестирования эффекта объединения двух или более переменных, обстоятельств, типов оборудования или событий. Заголовки строк и столбцов определяют условия тестирования. В ячейках хранятся результаты выполнения теста. • Если нужно выбрать так много настроек / опций, как писать тестовые примеры? • Тестовые сценарии должны быть разработаны для всех наиболее распространенных потенциальных сценариев. • Они должны охватывать большую часть положительных отзывов.   Beside test case & test plan, what documents are required to write? • Check Lists • Test matrices • Test design specs • End-to-end tests • Test summary reports • Bug reports Describe risk analysis Risk analysis means the actions taken to avoid things going wrong on a software development project, things that might negatively impact the scope, quality, timeliness, or cost of a project. This is, of course, a shared responsibility among everyone involved in a project. However, there needs to be a ‘buck stops here’ person who can consider the relevant trade offs when decisions are required, and who can ensure that everyone is handling their risk management responsibilities. How will you write test cases for testing fields LOGIN & PASSOWRD, positive and negative testing? Testing boundary conditions? Why? How? • Boundary value analysis is a methodology for designing test cases that concentrates software testing effort on cases near the limits of valid ranges. • Boundary value analysis is a method which refines equivalence partitioning.  It generates test cases that highlight errors better than equivalence partitioning. The trick is to concentrate software testing efforts at the extreme ends of the equivalence classes.  At those points when input values change from valid to invalid errors are most likely to occur.  As well, boundary value analysis broadens the portions of the business requirement document used to generate tests. For example, if a valid range of quantity on hand is -9,999 through 9,999, write test cases that include: 1. the valid test case quantity on hand is  -9,999, 2. the valid test case quantity on hand is 9,999, 3. the invalid test case quantity on hand is -10,000  and 4. the invalid test case quantity on hand is   10,000 Какие документы необходимо написать помимо тестового примера и плана тестирования? • Контрольные списки • Тестовые матрицы • Спецификации дизайна тестов • Сквозные испытания • Сводные отчеты об испытаниях • Отчеты об ошибках Опишите анализ рисков Под анализом рисков понимаются действия, предпринимаемые во избежание того, что в проекте разработки программного обеспечения что-то пойдет не так, что может негативно повлиять на объем, качество, своевременность или стоимость проекта. Это, конечно, общая ответственность всех участников проекта. Тем не менее, здесь должен быть человек, который «делает упор на понижение цены», который может рассматривать соответствующие компромиссы, когда требуются решения, и который может гарантировать, что каждый выполняет свои обязанности по управлению рисками. Как вы напишете тестовые примеры для полей тестирования LOGIN & PASSOWRD, положительного и отрицательного тестирования? Проверка граничных условий? Почему? Как? • Анализ граничных значений - это методология разработки тестовых примеров, которая концентрирует усилия по тестированию программного обеспечения на случаях, близких к пределам допустимых диапазонов. • Анализ граничных значений - это метод, который уточняет разделение по эквивалентности. Он генерирует тестовые примеры, которые лучше выделяют ошибки, чем эквивалентное разбиение. Уловка состоит в том, чтобы сконцентрировать усилия по тестированию программного обеспечения на крайних концах классов эквивалентности. В тех точках, когда входные значения изменяются с допустимых на недопустимые, наиболее вероятны ошибки. Кроме того, анализ граничных значений расширяет разделы документа бизнес-требований, используемых для создания тестов. Например, если допустимый диапазон количества под рукой составляет от -9 999 до 9 999, напишите тестовые примеры, которые включают: 1. действительное количество тестовых случаев под рукой составляет -9 999, 2. действительное количество тестовых примеров под рукой составляет 9 999, 3. количество недопустимых тестовых случаев в наличии составляет -10,000 и 4. количество недопустимых тестовых случаев в наличии составляет 10,000 What is the difference between a test case and a test plan? • Test plan is the most comprehensive Software Testing document that describes the objectives, scope, approach, and focus of a software testing effort • Test case is the smallest Software Testing document that describes both typical and atypical situation that may occur in the use of an application Which documents would you refer to when creating Test Cases? All business and technical documentation available: • PRD – Product Requirements Document • BRD – Business Requirements Document • Functional Specifications • Manuals and Help • Use Cases • Test Design • Third party publications (books, published by independent authors) What is Business Requirements Document (BRD)? BRD is written by the Business Analysts. It details the business solution for a project including the documentation of customer needs and expectations. В чем разница между тестовым набором и планом тестирования? • План тестирования - это наиболее полный документ по тестированию программного обеспечения, в котором описываются цели, объем, подход и направленность усилий по тестированию программного обеспечения. • Тестовый пример - это наименьший документ по тестированию программного обеспечения, который описывает как типичную, так и нетипичную ситуацию, которая может возникнуть при использовании приложения. Какие документы вы бы использовали при создании тестовых примеров? Доступна вся деловая и техническая документация: • PRD - документ с требованиями к продукту • BRD - Документ бизнес-требований • Функциональные характеристики • Руководства и справка • Случаи применения • Дизайн теста • Сторонние публикации (книги независимых авторов) Что такое Документ бизнес-требований (BRD)? BRD написан бизнес-аналитиками. В нем подробно описывается бизнес-решение для проекта, включая документацию о потребностях и ожиданиях клиентов. • The most common objectives of the BRD are: • To gain agreement with stakeholders • To provide a foundation to communicate to a technology service provider what the solution needs to do to satisfy the customer’s and business’ needs • To provide input into the next phase for this project • To describe what not how the customer/business needs will be met by the solution. What are Bug Report components? / What fields do you fill out in a Bug Report? / Describe to me the basic elements you put in a defect/bug report? • Report number: Unique number given to the report • Application / Module being tested • Version & release number • Problem Summary / Short Description / Synopsis • Steps to reproduce • Severity (Critical, Serious, Minor, Suggestion) • Priority (High, Medium, Low) • Environment (Software and/or hardware configuration) • Reported by • Assigned to • Status (Open, Pending, Fixed, Closed, cannot reproduce, etc.) • Resolution / Notes • Keywords   If you find a bug and the developer says it is as-designed, what can you do? • find an exact requirement, which defines the way it should be designed • if there is no specific requirement compare to same feature implemented in quality third party applications (ask your manager which applications to compare to)   How do you write a bug report? • Rule of WWW – What happened, Where it happened, under Which circumstances • Write one bug report for each fix to be verified • Bug report should be as complete as possible • Bug reports are as concise as possible • Report a bug immediately, do not postpone • Use technical terms, not “people off the street” language  • Наиболее частыми целями BRD являются: • Достичь согласия с заинтересованными сторонами • Обеспечить основу для того, чтобы сообщить поставщику технологических услуг, что должно делать решение, чтобы удовлетворить потребности клиентов и бизнеса. • Чтобы внести вклад в следующую фазу этого проекта. • Описать, что решение не удовлетворит потребности клиента / бизнеса. Что такое компоненты отчета об ошибке? / Какие поля вы заполняете в отчете об ошибке? / Опишите мне основные элементы, которые вы добавляете в отчет о дефекте / ошибке? • Номер отчета: уникальный номер, присвоенный отчету. • Тестируемое приложение / модуль • Версия и номер выпуска • Краткое описание проблемы / Краткое описание / Краткое содержание • Действия по воспроизведению • Серьезность (критическая, серьезная, незначительная, внушение) • Приоритет (высокий, средний, низкий) • Среда (конфигурация программного и / или аппаратного обеспечения) • Сообщает • Присвоен • Статус (открыт, ожидает, фиксирован, закрыт, невозможно воспроизвести и т. Д.) • Разрешение / Примечания • Ключевые слова
+Appendix – glossary, acronyms, etc.  
+
+Write test cases for a text field?
+• 5 test cases for capacity including 2 for each boundary and one for the class between boundaries 
+• 3 test cases for valid/invalid input of letters, digits, special characters • One test cases for each allowed special character (email field as an example) 
+• Functionality testing if there is any functionality (validation of input as an example, case sensitivity, required field, etc.)   
+
+What is Test matrix? Data collection mechanism. It provides a structure for testing the effect of combining two or more variables, circumstances, types of hardware, or events. Row and column headings identify the test conditions. Cells keep the results of test execution. If there are so many settings/options to choose, how to write test cases? • Test cases should be developed for all most common potential scenarios • They should cover most of the positive input * Распределение персонала * Потребности в предварительной подготовке персонала * Тестовый участок / место * Внешние испытательные организации, которые будут использоваться, и их цели, обязанности, результаты, контактные лица и вопросы координации * Соответствующие вопросы, связанные с собственностью, секретностью, безопасностью и лицензированием. * Открытые вопросы * Приложение - глоссарий, сокращения и т. Д. • Написать тестовые примеры для текстового поля? • 5 тестовых примеров для емкости, включая 2 для каждой границы и один для класса между границами • 3 тестовых случая для правильного / неправильного ввода букв, цифр, специальных символов • Один тестовый набор для каждого разрешенного специального символа (например, поле электронной почты) • Функциональное тестирование, если есть какие-либо функции (проверка ввода в качестве примера, чувствительность к регистру, обязательное поле и т. Д.) • Что такое тестовая матрица? • Механизм сбора данных. Он предоставляет структуру для тестирования эффекта объединения двух или более переменных, обстоятельств, типов оборудования или событий. Заголовки строк и столбцов определяют условия тестирования. В ячейках хранятся результаты выполнения теста. • Если нужно выбрать так много настроек / опций, как писать тестовые примеры? • Тестовые сценарии должны быть разработаны для всех наиболее распространенных потенциальных сценариев. • Они должны охватывать большую часть положительных отзывов.   Beside test case & test plan, what documents are required to write? • Check Lists • Test matrices • Test design specs • End-to-end tests • Test summary reports • Bug reports Describe risk analysis Risk analysis means the actions taken to avoid things going wrong on a software development project, things that might negatively impact the scope, quality, timeliness, or cost of a project. This is, of course, a shared responsibility among everyone involved in a project. However, there needs to be a ‘buck stops here’ person who can consider the relevant trade offs when decisions are required, and who can ensure that everyone is handling their risk management responsibilities. How will you write test cases for testing fields LOGIN & PASSOWRD, positive and negative testing? Testing boundary conditions? Why? How? • Boundary value analysis is a methodology for designing test cases that concentrates software testing effort on cases near the limits of valid ranges. • Boundary value analysis is a method which refines equivalence partitioning.  It generates test cases that highlight errors better than equivalence partitioning. The trick is to concentrate software testing efforts at the extreme ends of the equivalence classes.  At those points when input values change from valid to invalid errors are most likely to occur.  As well, boundary value analysis broadens the portions of the business requirement document used to generate tests. For example, if a valid range of quantity on hand is -9,999 through 9,999, write test cases that include: 1. the valid test case quantity on hand is  -9,999, 2. the valid test case quantity on hand is 9,999, 3. the invalid test case quantity on hand is -10,000  and 4. the invalid test case quantity on hand is   10,000 Какие документы необходимо написать помимо тестового примера и плана тестирования? • Контрольные списки • Тестовые матрицы • Спецификации дизайна тестов • Сквозные испытания • Сводные отчеты об испытаниях • Отчеты об ошибках Опишите анализ рисков Под анализом рисков понимаются действия, предпринимаемые во избежание того, что в проекте разработки программного обеспечения что-то пойдет не так, что может негативно повлиять на объем, качество, своевременность или стоимость проекта. Это, конечно, общая ответственность всех участников проекта. Тем не менее, здесь должен быть человек, который «делает упор на понижение цены», который может рассматривать соответствующие компромиссы, когда требуются решения, и который может гарантировать, что каждый выполняет свои обязанности по управлению рисками. Как вы напишете тестовые примеры для полей тестирования LOGIN & PASSOWRD, положительного и отрицательного тестирования? Проверка граничных условий? Почему? Как? • Анализ граничных значений - это методология разработки тестовых примеров, которая концентрирует усилия по тестированию программного обеспечения на случаях, близких к пределам допустимых диапазонов. • Анализ граничных значений - это метод, который уточняет разделение по эквивалентности. Он генерирует тестовые примеры, которые лучше выделяют ошибки, чем эквивалентное разбиение. Уловка состоит в том, чтобы сконцентрировать усилия по тестированию программного обеспечения на крайних концах классов эквивалентности. В тех точках, когда входные значения изменяются с допустимых на недопустимые, наиболее вероятны ошибки. Кроме того, анализ граничных значений расширяет разделы документа бизнес-требований, используемых для создания тестов. Например, если допустимый диапазон количества под рукой составляет от -9 999 до 9 999, напишите тестовые примеры, которые включают: 1. действительное количество тестовых случаев под рукой составляет -9 999, 2. действительное количество тестовых примеров под рукой составляет 9 999, 3. количество недопустимых тестовых случаев в наличии составляет -10,000 и 4. количество недопустимых тестовых случаев в наличии составляет 10,000 What is the difference between a test case and a test plan? • Test plan is the most comprehensive Software Testing document that describes the objectives, scope, approach, and focus of a software testing effort • Test case is the smallest Software Testing document that describes both typical and atypical situation that may occur in the use of an application Which documents would you refer to when creating Test Cases? All business and technical documentation available: • PRD – Product Requirements Document • BRD – Business Requirements Document • Functional Specifications • Manuals and Help • Use Cases • Test Design • Third party publications (books, published by independent authors) What is Business Requirements Document (BRD)? BRD is written by the Business Analysts. It details the business solution for a project including the documentation of customer needs and expectations. В чем разница между тестовым набором и планом тестирования? • План тестирования - это наиболее полный документ по тестированию программного обеспечения, в котором описываются цели, объем, подход и направленность усилий по тестированию программного обеспечения. • Тестовый пример - это наименьший документ по тестированию программного обеспечения, который описывает как типичную, так и нетипичную ситуацию, которая может возникнуть при использовании приложения. Какие документы вы бы использовали при создании тестовых примеров? Доступна вся деловая и техническая документация: • PRD - документ с требованиями к продукту • BRD - Документ бизнес-требований • Функциональные характеристики • Руководства и справка • Случаи применения • Дизайн теста • Сторонние публикации (книги независимых авторов) Что такое Документ бизнес-требований (BRD)? BRD написан бизнес-аналитиками. В нем подробно описывается бизнес-решение для проекта, включая документацию о потребностях и ожиданиях клиентов. • The most common objectives of the BRD are: • To gain agreement with stakeholders • To provide a foundation to communicate to a technology service provider what the solution needs to do to satisfy the customer’s and business’ needs • To provide input into the next phase for this project • To describe what not how the customer/business needs will be met by the solution. What are Bug Report components? / What fields do you fill out in a Bug Report? / Describe to me the basic elements you put in a defect/bug report? • Report number: Unique number given to the report • Application / Module being tested • Version & release number • Problem Summary / Short Description / Synopsis • Steps to reproduce • Severity (Critical, Serious, Minor, Suggestion) • Priority (High, Medium, Low) • Environment (Software and/or hardware configuration) • Reported by • Assigned to • Status (Open, Pending, Fixed, Closed, cannot reproduce, etc.) • Resolution / Notes • Keywords   If you find a bug and the developer says it is as-designed, what can you do? • find an exact requirement, which defines the way it should be designed • if there is no specific requirement compare to same feature implemented in quality third party applications (ask your manager which applications to compare to)   How do you write a bug report? • Rule of WWW – What happened, Where it happened, under Which circumstances • Write one bug report for each fix to be verified • Bug report should be as complete as possible • Bug reports are as concise as possible • Report a bug immediately, do not postpone • Use technical terms, not “people off the street” language  • Наиболее частыми целями BRD являются: • Достичь согласия с заинтересованными сторонами • Обеспечить основу для того, чтобы сообщить поставщику технологических услуг, что должно делать решение, чтобы удовлетворить потребности клиентов и бизнеса. • Чтобы внести вклад в следующую фазу этого проекта. • Описать, что решение не удовлетворит потребности клиента / бизнеса. Что такое компоненты отчета об ошибке? / Какие поля вы заполняете в отчете об ошибке? / Опишите мне основные элементы, которые вы добавляете в отчет о дефекте / ошибке? • Номер отчета: уникальный номер, присвоенный отчету. • Тестируемое приложение / модуль • Версия и номер выпуска • Краткое описание проблемы / Краткое описание / Краткое содержание • Действия по воспроизведению • Серьезность (критическая, серьезная, незначительная, внушение) • Приоритет (высокий, средний, низкий) • Среда (конфигурация программного и / или аппаратного обеспечения) • Сообщает • Присвоен • Статус (открыт, ожидает, фиксирован, закрыт, невозможно воспроизвести и т. Д.) • Разрешение / Примечания • Ключевые слова
 Что вы можете сделать, если вы обнаружили ошибку, и разработчик сказал, что она соответствует дизайну? • найти точное требование, определяющее способ его разработки • если нет особых требований, сравните с той же функцией, реализованной в качественных сторонних приложениях (спросите у своего менеджера, с какими приложениями сравнивать)
 
 Как написать отчет об ошибке? • Правило WWW - что произошло, где это произошло и при каких обстоятельствах • Напишите один отчет об ошибке для каждого исправления, которое необходимо проверить. • Отчет об ошибке должен быть как можно более полным. • Отчеты об ошибках максимально краткие. • Немедленно сообщайте об ошибке, не откладывайте • Используйте технические термины, а не слова «люди с улицы». What is the most important part of bug report? • Steps to reproduce • Short Description • Severity • Priority • Status What is the bug life cycle? • bug found • bug reported • bug assigned to developer along with Prioruty • bug fixed by developer • fix verified by tester • bug closed How can a tester be sure that bug was fixed? • execute the steps in the bug report • make sure the fixed bug does not result in new bugs in same area Describe the QA Process 1. Test Planning Process 2. Test Development Process 3. Test Execution Process 4. Defect Management Process 5. Test Reporting Process  What is Unit Testing? • The goal of unit testing is to isolate each part of the program and show that the individual parts (units) are correct. • A unit is the smallest testable part of an application. It may be an individual function or procedure. • Unit testing is provided by developers, not testers. What is API Testing? • Testing of an API (Application Programming Interface), which is a collection of software functions and procedures. • API testing is mostly used for testing system software, application software or libraries. • It is a white box testing method. • API testing (done by QA Team) is different from Unit testing (done by developers).  Что является самой важной частью отчета об ошибке? • Действия по воспроизведению • Краткое описание • Строгость • Приоритет • Положение дел Каков жизненный цикл ошибки? • обнаружена ошибка • сообщена ошибка • ошибка закреплена за разработчиком вместе с Prioruty • ошибка исправлена ​​разработчиком • исправление проверено тестером • ошибка закрыта Как тестировщик может быть уверен, что ошибка исправлена? • выполнить шаги в отчете об ошибке • убедитесь, что исправленная ошибка не приводит к появлению новых ошибок в той же области Опишите процесс обеспечения качества 1. Процесс планирования тестирования 2. Процесс разработки тестов 3. Процесс выполнения теста 4. Процесс управления дефектами 5. Процесс создания отчетов об испытаниях Что такое модульное тестирование? • Цель модульного тестирования - изолировать каждую часть программы и показать правильность отдельных частей (модулей). • Единица - это самая маленькая тестируемая часть приложения. Это может быть отдельная функция или процедура. • Модульное тестирование предоставляется разработчиками, а не тестировщиками. Что такое тестирование API? • Тестирование API (интерфейса прикладного программирования), который представляет собой набор программных функций и процедур. • Тестирование API в основном используется для тестирования системного программного обеспечения, прикладного программного обеспечения или библиотек. • Это метод тестирования белого ящика. • Тестирование API (выполняется командой QA) отличается от модульного тестирования (выполняется разработчиками). What is the Performance Testing? • Performance testing is to determine how fast some aspect of a system performs under a particular workload. It can also serve to validate and verify other quality attributes of the system, such as scalability, reliability and resource usage. What is Stress Testing? • Stress test puts a emphasis on robustness, availability, and error handling under a heavy load, rather than on what would be considered correct behavior under normal circumstances. • The goal may be to ensure the software doesn’t crash in conditions of insufficient computational resources (such as memory or disk space), unusually high concurrency, or denial of service attacks.   What is a Regression Testing? • Retesting of a modified program to make sure that no errors were introduced (nothing was broken) while making changes to the code (either developing new or fixing existing one)
